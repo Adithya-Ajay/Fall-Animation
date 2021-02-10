@@ -1,1 +1,2 @@
-# Fall-Animation
+# collisionAlgorithm
+Algorithm to detect collision between two objects
